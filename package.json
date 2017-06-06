@@ -1,0 +1,8 @@
+{
+  "name": "example",
+  "version": "0.0.1",
+  "dependencies": {
+    "webpack": "^2.6.1",
+    "rollbar": "2.0.4"
+  }
+}
